@@ -1,4 +1,5 @@
 # Wanderlust - Your Ultimate Travel Blog 🌍✈️
+<img width="1892" height="766" alt="image" src="https://github.com/user-attachments/assets/74d98346-ba44-4b8f-bc5d-fdb69e167587" />
 
 WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
 
