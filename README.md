@@ -104,3 +104,8 @@ Kindly go through [CONTRIBUTING.md](https://github.com/krishnaacharyaa/wanderlus
 If you find this project interesting and inspiring, please consider showing your support by starring it on GitHub! Your star goes a long way in helping me reach more developers and encourages me to keep enhancing the project.
 
 🚀 Feel free to get in touch with me for any further queries or support, happy to help :)
+
+<img width="1744" height="588" alt="image" src="https://github.com/user-attachments/assets/e6ffda5c-342c-4cd2-9101-56cfa25f1418" />
+
+
+<img width="1830" height="932" alt="image" src="https://github.com/user-attachments/assets/5dc7173c-1ec3-4227-ad25-d73f4af30812" />
